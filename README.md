@@ -11,3 +11,13 @@ Coe, K., Berger, J., Blumling, A., Brooks, K., Giorgi, E., Jackson, J., Lee, M.,
 
 ## File Structure
 
+- Folder `Notebooks`: A folder for the main notebook and an embedding file.
+- Folder `Clusters`: A folder for the tweets in each cluster and their topic modeling results.
+- Folder `Visualizations`: A folder for all figures in the research and the code to generate them.
+
+## Credits for Tools Used
+
+- [Scikit-learn: Machine Learning in Python](https://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html), Pedregosa *et al.*, JMLR 12, pp. 2825-2830, 2011.
+
+- McCallum, Andrew Kachites.  "MALLET: A Machine Learning for Language Toolkit." http://mallet.cs.umass.edu. 2002.
+- Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
